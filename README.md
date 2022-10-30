@@ -1,5 +1,4 @@
 # Chess
 
-After opening jar file it will ask for path that should lead to chess.png
-- FIX: pieces can be thrown out of board
-- WITHOUT CHESS RULES, player can move anywhere he wants
+Simple Chess game made in Java using GUI widget toolkit - Swing and AWT API
+Everything that needs to be added is in plans.txt file
