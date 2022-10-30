@@ -1,0 +1,8 @@
+FIX:
+	- when holding piece some images are layer up (try to change layer of it)
+
+- when pawn gets to finish it can transform to any piece
+- add en passant move
+- king shouldnt be able to move to a place which is being attacked by other players piece
+- add castle move for rook and king - everything will be checked in king move method even if rook already made a move
+- add checkmate - right now player has to kill king to win
